@@ -1,0 +1,92 @@
+Title,Artist,Album,Year,Genre,Length_sec,Country,Popularity(1-100),BPM,Language
+Bohemian Rhapsody,Queen,A Night at the Opera,1975,Rock,354,UK,100,72,English
+Stairway to Heaven,Led Zeppelin,Led Zeppelin IV,1971,Rock,482,UK,99,63,English
+Enter Sandman,Metallica,Metallica,1991,Metal,331,USA,98,123,English
+Master of Puppets,Metallica,Master of Puppets,1986,Metal,515,USA,97,212,English
+Paranoid,Black Sabbath,Paranoid,1970,Metal,171,UK,96,164,English
+Back in Black,AC/DC,Back in Black,1980,Rock,255,Australia,95,94,English
+Smoke on the Water,Deep Purple,Machine Head,1972,Rock,340,UK,94,114,English
+Iron Man,Black Sabbath,Paranoid,1970,Metal,355,UK,93,76,English
+Nothing Else Matters,Metallica,Metallica,1991,Metal,388,USA,92,142,English
+Highway to Hell,AC/DC,Highway to Hell,1979,Rock,208,Australia,91,116,English
+Sweet Child O Mine,Guns N Roses,Appetite for Destruction,1987,Rock,356,USA,90,125,English
+Welcome to the Jungle,Guns N Roses,Appetite for Destruction,1987,Rock,271,USA,89,123,English
+Painkiller,Judas Priest,Painkiller,1990,Metal,376,UK,88,140,English
+Ace of Spades,Motörhead,Ace of Spades,1980,Metal,167,UK,87,140,English
+Hallowed Be Thy Name,Iron Maiden,The Number of the Beast,1982,Metal,431,UK,86,91,English
+The Trooper,Iron Maiden,Piece of Mind,1983,Metal,245,UK,85,160,English
+Fear of the Dark,Iron Maiden,Fear of the Dark,1992,Metal,438,UK,84,90,English
+Breaking the Law,Judas Priest,British Steel,1980,Metal,154,UK,83,164,English
+Run to the Hills,Iron Maiden,The Number of the Beast,1982,Metal,231,UK,82,172,English
+Symphony of Destruction,Megadeth,Countdown to Extinction,1992,Metal,246,USA,81,136,English
+Holy Wars,Megadeth,Rust in Peace,1990,Metal,412,USA,80,174,English
+Chop Suey,System of a Down,Toxicity,2001,Metal,210,USA,99,127,English
+Toxicity,System of a Down,Toxicity,2001,Metal,218,USA,98,121,English
+Duality,Slipknot,Vol. 3,2004,Metal,252,USA,97,120,English
+Psychosocial,Slipknot,All Hope Is Gone,2008,Metal,275,USA,96,135,English
+Before I Forget,Slipknot,Vol. 3,2004,Metal,258,USA,95,136,English
+In the End,Linkin Park,Hybrid Theory,2000,Rock,216,USA,100,105,English
+Numb,Linkin Park,Meteora,2003,Rock,185,USA,99,110,English
+Crawling,Linkin Park,Hybrid Theory,2000,Rock,209,USA,98,92,English
+Killing in the Name,Rage Against the Machine,RATM,1992,Rock,313,USA,97,88,English
+Bulls on Parade,Rage Against the Machine,Evil Empire,1996,Rock,231,USA,96,166,English
+Everlong,Foo Fighters,The Colour and the Shape,1997,Rock,250,USA,95,158,English
+Best of You,Foo Fighters,In Your Honor,2005,Rock,257,USA,94,130,English
+The Pretender,Foo Fighters,Echoes Silence Patience & Grace,2007,Rock,269,USA,93,173,English
+Smells Like Teen Spirit,Nirvana,Nevermind,1991,Rock,301,USA,100,117,English
+Come As You Are,Nirvana,Nevermind,1991,Rock,219,USA,98,120,English
+Lithium,Nirvana,Nevermind,1991,Rock,257,USA,97,124,English
+One,Metallica,...And Justice for All,1988,Metal,447,USA,99,105,English
+Fade to Black,Metallica,Ride the Lightning,1984,Metal,417,USA,98,113,English
+Seek & Destroy,Metallica,Kill Em All,1983,Metal,415,USA,97,140,English
+War Pigs,Black Sabbath,Paranoid,1970,Metal,470,UK,96,73,English
+Heaven and Hell,Black Sabbath,Heaven and Hell,1980,Metal,415,UK,95,94,English
+Crazy Train,Ozzy Osbourne,Blizzard of Ozz,1980,Metal,296,UK,94,138,English
+No More Tears,Ozzy Osbourne,No More Tears,1991,Metal,447,UK,93,118,English
+Mr Crowley,Ozzy Osbourne,Blizzard of Ozz,1980,Metal,302,UK,92,134,English
+Bat Country,Avenged Sevenfold,City of Evil,2005,Metal,330,USA,91,118,English
+Nightmare,Avenged Sevenfold,Nightmare,2010,Metal,366,USA,90,130,English
+Unholy Confessions,Avenged Sevenfold,Waking the Fallen,2003,Metal,284,USA,89,190,English
+Can You Feel My Heart,Bring Me The Horizon,Sempiternal,2013,Metal,227,UK,88,130,English
+Shadow Moses,Bring Me The Horizon,Sempiternal,2013,Metal,240,UK,87,145,English
+The Sound of Silence,Disturbed,Immortalized,2015,Metal,248,USA,95,86,English
+Down with the Sickness,Disturbed,The Sickness,2000,Metal,278,USA,94,90,English
+Stricken,Disturbed,Ten Thousand Fists,2005,Metal,245,USA,93,172,English
+Du Hast,Rammstein,Sehnsucht,1997,Metal,234,Germany,96,125,German
+Sonne,Rammstein,Mutter,2001,Metal,272,Germany,95,75,German
+Ich Will,Rammstein,Mutter,2001,Metal,217,Germany,94,120,German
+Engel,Rammstein,Sehnsucht,1997,Metal,284,Germany,93,92,German
+The Unforgiven,Metallica,Metallica,1991,Metal,386,USA,97,114,English
+The Unforgiven II,Metallica,Reload,1997,Metal,399,USA,96,98,English
+Fuel,Metallica,Reload,1997,Metal,269,USA,95,133,English
+Sad But True,Metallica,Metallica,1991,Metal,324,USA,96,91,English
+For Whom the Bell Tolls,Metallica,Ride the Lightning,1984,Metal,310,USA,97,118,English
+Battery,Metallica,Master of Puppets,1986,Metal,312,USA,96,192,English
+Cowboys from Hell,Pantera,Cowboys from Hell,1990,Metal,247,USA,95,117,English
+Walk,Pantera,Vulgar Display of Power,1992,Metal,315,USA,96,96,English
+Domination,Pantera,Cowboys from Hell,1990,Metal,305,USA,94,90,English
+Freak on a Leash,Korn,Follow the Leader,1998,Metal,255,USA,93,107,English
+Blind,Korn,Korn,1994,Metal,258,USA,92,92,English
+Got the Life,Korn,Follow the Leader,1998,Metal,225,USA,91,96,English
+My Curse,Killswitch Engage,As Daylight Dies,2006,Metal,244,USA,90,139,English
+Holy Diver,Dio,Holy Diver,1983,Metal,342,USA,95,118,English
+Rainbow in the Dark,Dio,Holy Diver,1983,Metal,255,USA,94,118,English
+Pull Me Under,Dream Theater,Images and Words,1992,Metal,512,USA,93,134,English
+Metropolis Pt 1,Dream Theater,Images and Words,1992,Metal,569,USA,92,146,English
+Aerials,System of a Down,Toxicity,2001,Metal,235,USA,94,99,English
+BYOB,System of a Down,Mezmerize,2005,Metal,256,USA,95,140,English
+Schism,Tool,Lateralus,2001,Metal,407,USA,93,87,English
+Forty Six and 2,Tool,Aenima,1996,Metal,367,USA,92,93,English
+Sober,Tool,Undertow,1993,Metal,311,USA,91,120,English
+Black Hole Sun,Soundgarden,Superunknown,1994,Rock,335,USA,94,105,English
+Rusty Cage,Soundgarden,Badmotorfinger,1991,Rock,265,USA,92,150,English
+Would,Alice in Chains,Dirt,1992,Rock,208,USA,95,105,English
+Man in the Box,Alice in Chains,Facelift,1990,Rock,286,USA,94,108,English
+Them Bones,Alice in Chains,Dirt,1992,Rock,150,USA,93,160,English
+Alive,Pearl Jam,Ten,1991,Rock,341,USA,95,100,English
+Jeremy,Pearl Jam,Ten,1991,Rock,319,USA,94,110,English
+Even Flow,Pearl Jam,Ten,1991,Rock,293,USA,93,110,English
+Californication,Red Hot Chili Peppers,Californication,1999,Rock,329,USA,96,96,English
+Otherside,Red Hot Chili Peppers,Californication,1999,Rock,255,USA,95,123,English
+Under the Bridge,Red Hot Chili Peppers,Blood Sugar Sex Magik,1991,Rock,264,USA,97,85,English
+Snow Hey Oh,Red Hot Chili Peppers,Stadium Arcadium,2006,Rock,334,USA,94,106,English
