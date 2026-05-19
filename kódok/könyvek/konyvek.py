@@ -18,3 +18,12 @@ for elem in konyvek:
     cimlista.append(elem.cim)
 
 print(*cimlista, sep=", ")
+
+atlag_oldal = []
+
+for oldal in konyvek:
+    atlag_oldal.append(oldal.oldalszam)
+
+db = len(atlag_oldal)
+osszoldal = sum(atlag_oldal)
+print(f"Átlag oldalszám: {osszoldal / db}")
